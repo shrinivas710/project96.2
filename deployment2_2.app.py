@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/13EayIVSy5g5nhvuAOeKHVN9mp1YTZ4JU
 """
 
-!pip install pip==23.0.1
+'/home/appuser/venv/bin/python -m pip install --upgrade pip'
 
 
 
