@@ -10,6 +10,7 @@ Original file is located at
 
 
 
+!pip install -r requirements.txt
 
 import pickle
 import streamlit as st
