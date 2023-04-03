@@ -21,7 +21,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 #load the model
-model = pickle.load(open("C:\Users\Shrin\Downloads\forecast_model_doubleexp (1).pickle",'rb'))
+model = pickle.load(open('C:\Users\Shrin\Downloads\forecast_model_doubleexp (1).pickle','rb'))
 
 
 #load dataset to plot alongside predictions
