@@ -15,7 +15,8 @@ import pickle
 import streamlit as st
 import pandas as pd
 import numpy as np
-!pip install matplotlib==3.4.2
+!pip install matplotlib
+
 
 import matplotlib.pyplot as plt
 from PIL import Image
