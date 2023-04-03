@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/13EayIVSy5g5nhvuAOeKHVN9mp1YTZ4JU
 """
 
-'/home/appuser/venv/bin/python -m pip install --upgrade pip'
+
 
 
 !pip install matplotlib
