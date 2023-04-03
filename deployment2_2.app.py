@@ -11,6 +11,8 @@ Original file is located at
 
 
 
+def install(package):
+    subprocess.check_call(['/usr/bin/python3.9', '-m', 'pip', 'install', package])
 
 import pickle
 import streamlit as st
