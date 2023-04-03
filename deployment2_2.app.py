@@ -10,12 +10,13 @@ Original file is located at
 '/home/appuser/venv/bin/python -m pip install --upgrade pip'
 
 
+!pip install matplotlib
 
 import pickle
 import streamlit as st
 import pandas as pd
 import numpy as np
-pip install matplotlib
+
 
 
 import matplotlib.pyplot as plt
